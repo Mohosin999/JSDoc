@@ -23,7 +23,7 @@ const obj = {
  * Function
  * @param {number} num2
  * @param {number} num3
- * @returns {number} - It's return the sum of this number
+ * @returns {number}
  */
 const sumFunc = (num2, num3) => {
   return num2 + num3;
